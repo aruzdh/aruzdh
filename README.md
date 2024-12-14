@@ -17,6 +17,6 @@
 <div align="center">
   <h3>LeetCode</h3>
   
-  ![LeetCode Stats](https://leetcode.card.workers.dev/aruzdh?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/aruzdh?theme=transparent&font=Fira%20Code&ext=heatmap)
 
 </div>
