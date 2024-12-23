@@ -9,7 +9,7 @@
   <h3>Main stack</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,python,typescript,java,neovim,obsidian" />
+      <img src="https://skillicons.dev/icons?i=rust,python,typescript,java,ruby,neovim,obsidian" />
     </a>
   </p>
 </div>
@@ -17,6 +17,6 @@
 <div align="center">
   <h3>LeetCode</h3>
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/aruzdh?theme=transparent&font=Fira%20Code&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/aruzdh?theme=catppuccinMocha&font=Jockey%20One&ext=heatmap)
 
 </div>
