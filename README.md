@@ -9,7 +9,7 @@
   <h3>Main stack</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,python,typescript,java,ruby,neovim,obsidian" />
+      <img src="https://skillicons.dev/icons?i=c,latex,rust,python,typescript,ruby,neovim" />
     </a>
   </p>
 </div>
