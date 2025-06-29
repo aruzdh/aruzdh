@@ -12,6 +12,9 @@
       <img src="https://skillicons.dev/icons?i=c,latex,rust,python,typescript,ruby,neovim" />
     </a>
   </p>
+  <p>
+    I use Typst, btw
+  </p>
 </div>
 
 <div align="center">
