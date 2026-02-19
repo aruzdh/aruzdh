@@ -6,18 +6,6 @@
 </p>
 
 <div align="center">
-  <h3>Main stack</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,python,rust,go,typescript,latex,neovim" />
-    </a>
-  </p>
-  <p>
-    I use Typst, btw
-  </p>
-</div>
-
-<div align="center">
   <h3>LeetCode</h3>
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/aruzdh?theme=light=Fira%20Code&ext=heatmap)
